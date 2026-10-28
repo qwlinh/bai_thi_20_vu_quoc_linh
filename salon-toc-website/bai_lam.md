@@ -120,8 +120,11 @@ Get-Content .\logs\daily_report.txt
 ### Kết quả hiển thị
 
 ```text
-(Dán kết quả vào đây – xoá dòng này)
-
+2026-11-28 09:53:35 [ERROR] Khong tim thay trang /kieu-toc-moi (404)
+2026-11-28 09:57:35 [ERROR] Khong tim thay trang /kieu-toc-moi (404)
+2026-11-28 10:13:35 [ERROR] Dat lich that bai
+2026-11-28 10:33:35 [ERROR] Dat lich that bai
+2026-11-28 10:37:35 [ERROR] Thanh toan bi tu choi
 ```
 
 ## 4.6. Đếm số dòng lỗi
